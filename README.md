@@ -1,0 +1,2 @@
+# AimLabAutoAim
+use pythonopencv
