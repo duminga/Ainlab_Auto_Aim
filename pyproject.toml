@@ -5,5 +5,9 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
+    "keyboard>=0.13.5",
     "loguru>=0.7.3",
+    "mss>=10.0.0",
+    "opencv-python>=4.11.0.86",
+    "pywin32>=310",
 ]
